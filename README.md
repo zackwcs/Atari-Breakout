@@ -1,4 +1,7 @@
 # Breakout Project
+## Demonstration
+https://www.youtube.com/watch?v=tyiXUhVfOg0
+
 ## Introduction
 Based on the classic game, Breakout, the player controls a rectangle that is used to bounce a ball. The rectangle that the player controls only moves on the horizontal axis, and it’s used to redirect the ball and prevent it from going off the screen. The goal of this game is to break all of the obstacles by bouncing the ball against them. Once the ball hits an obstacle, a sound will play to indicate that a block has been destroyed. The player will either break all the blocks and win the game, or the ball goes off the screen and the player loses. The player will be given 1 extra ball in case the original ball falls off the screen.
 
