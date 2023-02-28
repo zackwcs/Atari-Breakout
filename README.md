@@ -2,7 +2,9 @@
 ## Introduction
 Based on the classic game, Breakout, the player controls a rectangle that is used to bounce a ball. The rectangle that the player controls only moves on the horizontal axis, and it’s used to redirect the ball and prevent it from going off the screen. The goal of this game is to break all of the obstacles by bouncing the ball against them. Once the ball hits an obstacle, a sound will play to indicate that a block has been destroyed. The player will either break all the blocks and win the game, or the ball goes off the screen and the player loses. The player will be given 1 extra ball in case the original ball falls off the screen.
 
-
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/52152719/221742894-96edee28-974f-43f9-91ea-dc4d7bd0e726.png">
+</p>
 
 ## Complexities
 All Successfully Implemented
@@ -32,6 +34,24 @@ When starting up the project, the player will be greeted with an intro screen pr
 
 ## Wiring Diagram
 
+<p align="center">
+  <img width="460" height="300" src= "https://user-images.githubusercontent.com/52152719/221742911-2fdd8115-aebc-48a9-a2cc-f627df214a6c.png">
+  <img width="460" height="300" src= "https://user-images.githubusercontent.com/52152719/221742912-a1e893c9-883c-45a5-a1ef-8ffa1057801a.png">
+  <img src = "https://user-images.githubusercontent.com/52152719/221742904-7736e197-cc8a-4bfc-9c60-5bdb9171156e.png">
+</p>
+
 ## Task Diagram
 
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/52152719/221742892-e844e78c-a748-4ac3-a9dd-6f9fb8f5ff48.png" width="700">
+</p>
+
 ## SynchSM Diagrams
+
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/52152719/221742902-63e8ae24-2651-4348-9199-99c5d5f66cd9.png" width="700">
+  <img src = "https://user-images.githubusercontent.com/52152719/221742908-254e162b-2e9c-4467-89f8-680220a495d4.png" width="700">
+  <img src = "https://user-images.githubusercontent.com/52152719/221742893-b942fdf0-803e-4891-a6f0-b64611d8af00.png" width="700">
+  <img src = "https://user-images.githubusercontent.com/52152719/221742899-665a5004-6401-44d5-b208-ddfbe024e342.png" width="700">
+  <img src = "https://user-images.githubusercontent.com/52152719/221742909-5011e765-2497-44da-b17f-a654310a9ac9.png" width="700">
+</p>
